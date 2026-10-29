@@ -5,12 +5,12 @@
   "name": "Create Fly: Metered Motor",
   "description": "A kinetic power source sold by toolsmith villagers in three fixed tiers, each pinned to a real steam-engine set-up, burning emeralds in proportion to the stress its network draws.",
   "authors": [
-    "Cube Algos"
+    "Kevin Scheeren"
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/metered-motor",
-    "sources": "https://github.com/cubealgos-mods/create_metered_motor",
-    "issues": "https://github.com/cubealgos-mods/create_metered_motor/issues"
+    "sources": "https://github.com/kevinscheeren-mods/create_metered_motor",
+    "issues": "https://github.com/kevinscheeren-mods/create_metered_motor/issues"
   },
   "license": "MIT",
   "environment": "*",
